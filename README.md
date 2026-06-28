@@ -19,15 +19,6 @@ Crop Disease Detection uses **transfer learning on MobileNetV2** trained on the 
 
 ---
 
-## Screenshots
-
-| Upload & Diagnosis           | Grad-CAM Attention Map | Top Predictions Chart    |
-| ---------------------------- | ---------------------- | ------------------------ |
-| _(leaf image + result card)_ | _(heatmap overlay)_    | _(horizontal bar chart)_ |
-
-> Add screenshots to `assets/` and update the table above after deployment.
-
----
 
 ## Architecture
 
