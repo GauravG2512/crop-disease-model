@@ -187,22 +187,7 @@ The 85% on a small random test sample is consistent with 93.36% validation accur
 
 ---
 
-## Deployment
 
-### Streamlit Community Cloud
-
-1. Push the repo to GitHub (ensure `crop_disease_model.keras` is accessible — use Git LFS or download from a public URL at startup)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo and set `app.py` as the entry point
-4. Add `requirements.txt` — Streamlit Cloud installs dependencies automatically
-
-### Hugging Face Spaces
-
-1. Create a new Space with the **Streamlit** SDK
-2. Upload all files including the model
-3. Add a `packages.txt` for system dependencies if needed
-
----
 
 ## Future Work
 
